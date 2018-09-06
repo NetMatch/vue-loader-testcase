@@ -1,0 +1,26 @@
+{
+  "name": "vue-loader-testcase",
+  "version": "1.0.0",
+  "description": "A reduced testcase to illustrate source maps not working correctly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "vue-loader"
+  ],
+  "author": "NetMatch",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "mini-css-extract-plugin": "^0.4.2",
+    "vue-loader": "^15.4.1",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
+}
