@@ -1,2 +1,2 @@
-# postcss-loader-testcase
-A reduced testcase to illustrate source map paths breaking on Windows
+# vue-loader-testcase
+A reduced testcase to illustrate source maps breaking
